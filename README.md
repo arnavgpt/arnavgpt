@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavgpt&label=Profile%20views&color=0e75b6&style=flat" alt="arnavgpt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnavgpt" alt="arnavgpt" /></a> </p>
 
 - 🔭 I’m currently working on **My configuration files**
 
@@ -22,5 +21,3 @@
 <a href="https://vim.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VIM-Dark.svg" alt="c" width="40" height="40"/> </a>
 
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnavgpt&show_icons=true&locale=en" alt="arnavgpt" /></p>
